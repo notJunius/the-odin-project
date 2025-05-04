@@ -1,0 +1,39 @@
+body {
+  background-color: #fcf6e1;
+  text-align: center;
+  padding-top: 32px;
+}
+
+h1, h2 {
+  color: #6388ff
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h2 {
+  margin-bottom: 32px;
+  font-size: 30px;
+}
+
+li, a {
+  color: #702902
+}
+
+a:hover {
+  color: #ffac75;
+}
+
+a {
+  font-size: 24px;
+}
+
+li {
+  list-style-type: none;
+  margin: 16px auto;
+}
+
+ul {
+  padding-left: 0px;
+}

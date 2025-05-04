@@ -1,0 +1,18 @@
+body {
+  background-color: #fcf6e1;
+  padding-top: 32px;
+}
+
+h1, h2 {
+  color: #6388ff
+}
+
+
+li, a{
+  color: #702902;
+}
+
+a:hover {
+  color: #ffac75;
+}
+
